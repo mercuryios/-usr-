@@ -2,7 +2,7 @@
 title: Mercury iOS Development Team
 ---
 # {{page.title}}
-![](https://github.com/mercuryios/site/blob/master/MercuryDevLogo.png)
+![](https://cdn.discordapp.com/attachments/633069116835627047/643951476825129030/MercuryDevLogo.png)
   
 ## What We Do
 
